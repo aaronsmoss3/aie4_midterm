@@ -1,0 +1,11 @@
+chainlit==0.7.700
+langchain
+langchain-community ##==0.3.0
+langchain-core #==0.3.2
+langchain-openai==0.1.25
+langchain-qdrant
+langchain_experimental
+langchain-text-splitters
+langsmith
+pymupdf
+ragas
